@@ -1,12 +1,12 @@
-
-
+import Ready from "./hello"
 
 
 function App() {
   
 
   return (
-   <h1> radhe krishna  by  pankaj kumar</h1>
+
+    <Ready/>
   )
 }
 
